@@ -11,7 +11,9 @@ export default function Footer() {
 
         <Flex>
           <ul>
-            <li>+353 (85) 201 6811</li>
+            <li>
+              <a href='tel:+353-85-201-6811'>+353 (85) 201 6811</a>
+            </li>
             <li>mike@pletava.com</li>
           </ul>
           <ul>

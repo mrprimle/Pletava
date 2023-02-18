@@ -2,7 +2,7 @@ const content = [
   {
     id: 1,
     title: 'Dedicated Development Teams',
-    body: 'We build sustainable nearshore teams of software engineers and other tech experts. You manage your dedicated developers directly, while Beetroot takes care of infrastructure and supports you in maintaining a tight-knit, cohesive, and effective team.',
+    body: 'We build sustainable nearshore teams of software engineers and other tech experts. You manage your dedicated developers directly, while Pletava takes care of infrastructure and supports you in maintaining a tight-knit, cohesive, and effective team.',
     image: 'illustration-flowing-conversation.svg',
   },
   {
